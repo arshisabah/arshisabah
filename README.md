@@ -12,7 +12,7 @@
 
 ## 👋 Introduction
 
-Hi, I'm **Arshi**, a Software Developer focused on **Java backend development**, **Spring Boot**, REST APIs, databases, and software architecture. I build backend systems with clean layering, sound design principles, and a solid grasp of how things work underneath the framework.
+Hi, I'm **Arshi Sabah**, a Software Developer focused on **Java backend development**, **Spring Boot**, REST APIs, databases, and software architecture. I build backend systems with clean layering, sound design principles, and a solid grasp of how things work underneath the framework.
 
 **Software Developer | Java Backend Developer | Spring Boot | Backend Engineering**
 
