@@ -191,23 +191,21 @@ Enterprise banking application development using Appzillon, part of my professio
 
 ## 📊 GitHub Statistics
 
-> Replace `YOUR_USERNAME` with your GitHub username.
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arshisabah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshisabah&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=arshisabah&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
 ### 🐍 Contribution Activity
 
-<!-- Optional animated contribution graph. Requires the Platane/snk GitHub Action
+<!-- Animated contribution graph. Requires the Platane/snk GitHub Action
      to generate the `output` branch. See https://github.com/Platane/snk -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" alt="Contribution snake" />
+  <img src="https://raw.githubusercontent.com/arshisabah/arshisabah/output/github-snake-dark.svg" alt="Contribution snake" />
 </div>
 
 ---
@@ -239,7 +237,8 @@ Areas I am actively improving:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](ADD_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arshisabah)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arshisabah)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ADD_EMAIL)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](ADD_LEETCODE_URL)
 
